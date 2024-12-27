@@ -1,6 +1,5 @@
-# Ansible-on-Ubuntu
 ### Install ansible on ubuntu
-### rin the cmd: 
+### Run the cmd: 
 ```
 sudo apt update
 ```
